@@ -20,3 +20,4 @@ after_success:
   - docker push sanlobs/multi-nginx
   - docker push sanlobs/multi-server
   - docker push sanlobs/multi-worker
+
